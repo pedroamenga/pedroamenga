@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **TypeScript and ReactNative**
 
-- 💬 Ask me about **React ((Im not a pro, but im comfortable with it)**
+- 💬 Ask me about **React (Im not a pro, but im comfortable with it)**
 
 - 📫 How to reach me **pedroam92@gmail.com**
 
-- ⚡ Fun fact **I am a electronic music producer and dj also**
+- ⚡ Fun fact **I am a electronic music producer and DJ as a hobby**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
