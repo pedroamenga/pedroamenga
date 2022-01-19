@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, i'm Pedro Mengarelli</h1>
 <h3 align="center">A Brazilian Full-Stack developer living in Santiago, Chile.</h3>
 
-- 🔭 I’m currently working on [the home page of my hobbie, a landing page for my music collective.](unitecollective.cl)
+- 🔭 I’m currently working on [a landing page for my music collective.](unitecollective.cl)
 
 - 🌱 I’m currently learning **TypeScript and ReactNative**
 
